@@ -68,20 +68,17 @@
 
 ---
 
-## **Databases**
-### Relational Databases (SQL)
-- SQL Queries (`SELECT`, `INSERT`, `UPDATE`, `DELETE`)  
-- CRUD Operations  
-- Data Types and Constraints  
-- Joins (`INNER JOIN`, `LEFT JOIN`, `RIGHT JOIN`)  
-- Indexing and Optimization  
-- Transactions and Rollbacks  
-
-### NoSQL Databases (MongoDB)
-- Collections and Schemas  
-- Aggregation Framework  
-- CRUD Operations  
-- Query Optimization  
+## Databases
+- **Relational Databases (SQL)**  
+- **NoSQL Databases (MongoDB)**  
+- **SQL Queries** (`SELECT`, `INSERT`, `UPDATE`, `DELETE`)  
+- **CRUD Operations**  
+- **Data Types and Constraints**  
+- **Joins** (`INNER JOIN`, `LEFT JOIN`, `RIGHT JOIN`)  
+- **Indexing and Optimization**  
+- **Transactions and Rollbacks**  
+- **Aggregation Framework**  
+- **Collections and Schemas**  
 
 ---
 
