@@ -53,7 +53,7 @@
 - User Authentication (Built-in, JWT)  
 - REST API Development (Views, DRF, Serializers)  
 - Middleware and Request/Response Cycle  
-- Database Integration (SQLite, MongoDB)  
+- Database Integration (SQL, MongoDB)  
 - Asynchronous Tasks (Celery)  
 - Debugging and Testing (Django Shell, Unit Testing)  
 - API Integration with Frontend  
