@@ -56,7 +56,7 @@
 
 ---
 
-## **Frontend Development with React**
+## **React**
 - Component-Based Architecture  
 - JSX Syntax  
 - Styling Components (CSS Grid, Alignment)  
